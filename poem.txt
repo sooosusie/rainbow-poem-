@@ -8,3 +8,4 @@ green
 blue
 orange
 dark
+light
